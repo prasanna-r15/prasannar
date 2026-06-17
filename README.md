@@ -2,10 +2,16 @@
 
 ### **Software Engineer | Full Stack | Fintech & Payments | Microservices**
 
-<p left="align">
-  <a href="https://prasannar.in/"><img src="https://img.shields.io/badge/Portfolio-prasannar.in-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/prasanna-r-77530916b"><img src="https://img.shields.io/badge/LinkedIn-Prasanna--R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:rasannar.0505@gmail.com"><img src="https://img.shields.io/badge/Email-rasannar.0505%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <a href="https://prasannar.in">
+    <img src="https://img.shields.io/badge/Portfolio-prasannar.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/prasanna-r-77530916b">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasanna_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prasannar.0505@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
