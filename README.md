@@ -3,13 +3,13 @@
 ### **Software Engineer | Full Stack | Fintech & Payments | Microservices**
 
 <p align="center">
-  <a href="https://prasannar.in">
+  <a href="https://prasannar.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-prasannar.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/prasanna-r-77530916b">
+  <a href="https://linkedin.com/in/prasanna-r-77530916b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prasanna_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:prasannar.0505@gmail.com">
+  <a href="mailto:prasannar.0505@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
