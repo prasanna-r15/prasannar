@@ -26,15 +26,10 @@
 
 ```yaml
 Name       : Prasanna R
-
 Location   : Coimbatore, Tamil Nadu, India
-
 Role       : Software Engineer
-
 Experience : 4+ Years
-
 Expertise  :
-
   - Fintech & Payment Systems
   - Banking Integrations
   - Microservices Architecture
@@ -44,19 +39,13 @@ Expertise  :
   - Event-Driven Systems
   - React.js Full Stack Development
   - API Security & Encryption
-
 Currently Building :
-
   - Modern Portfolio Platform
   - Payment Gateway Solutions
   - AI-Powered Developer Tools
-
 Fun Fact :
-
   - I enjoy building side projects and exploring AI-powered applications.
-
 Motto() :
-
   "Build systems that scale. Secure transactions that matter."
 ```
 
